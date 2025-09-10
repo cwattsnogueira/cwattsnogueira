@@ -1,19 +1,14 @@
-## Hi There, I'm Carllos,
+## Hi There, I'm Carllos
 
-<p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/carlloswattsnogueira" target="_blank" style="text-decoration: none; border: none;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlloswattsnogueira" target="_blank">
     <img height="30px" src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    
   </a>
- 
-  <a href="mailto:carlloswattsnogueira@gmail.com" target="_blank" style="text-decoration: none; border: none;">
+  <a href="mailto:carlloswattsnogueira@gmail.com" target="_blank">
     <img height="30px" src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    
   </a>
-
-  <a href="https://cwattsnogueira.github.io/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://cwattsnogueira.github.io/" target="_blank">
     <img height="30px" src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-    
   </a>
 </p>
 
